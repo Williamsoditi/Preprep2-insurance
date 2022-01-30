@@ -2,6 +2,7 @@
     box-sizing: border-box;
     font-family: Monteserrat;
     text-align: center;
+    align-items: center;
     
 }
 .nav{
@@ -58,4 +59,9 @@ header{
     border-radius: 15px 15px 15px 15px;
     padding: 10px;
     background-color: none;
+}
+.aboutus{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
 }
