@@ -78,5 +78,43 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-
+}
+.pricing{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.premium{
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+}
+.free{
+    display: flex;
+    margin-left: 40px;
+}
+.standard{
+    display: flex;
+    margin-left: 40px;
+}
+.freem{
+    border-style: solid;
+    border-color: #23A6F0;
+    border-radius: 10px ;
+}
+.std{
+    border-style: solid;
+    border-color: #23A6F0;
+    border-radius: 10px ;
+    background-color: #252b42 ;
+    color: white;
+}
+.prem{
+    border-style: solid;
+    border-color: #23A6F0;
+    border-radius: 10px ;
+}
+table{
+    color: #23A6F0;
+    font-weight: bolder;
 }
