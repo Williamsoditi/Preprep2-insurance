@@ -1,6 +1,7 @@
 *{
     box-sizing: border-box;
     font-family: Monteserrat;
+    text-align: center;
     
 }
 .nav{
@@ -43,4 +44,18 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+.quotebutton{
+    background-color: #23A6F0;
+    color: white;
+    border-radius: 15px 15px 15px 15px;
+    border: none;
+    padding: 10px;
+}
+.learn{
+    border-color: white;
+    color: white;
+    border-radius: 15px 15px 15px 15px;
+    padding: 10px;
+    background-color: none;
 }
