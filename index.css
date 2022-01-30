@@ -118,3 +118,10 @@ table{
     color: #23A6F0;
     font-weight: bolder;
 }
+.branch{
+    display: flex;
+    justify-content: center;
+    background-color: #252b42;
+    color: white;
+    padding: 30px
+}
