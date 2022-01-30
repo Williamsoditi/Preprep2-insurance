@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    font-family: Monteserrat;
+    
+}
+.nav{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.login{
+    display: flex;
+    justify-content: space-between;
+}
+.button{
+    background-color: #23A6F0;
+    color: white;
+    border-radius: 5px ;
+    border: none;
+}
+.foot{
+    display: flex;
+    justify-content: space-between;
+}
+header{
+    background-image: url(/Assets/#hero-cover.3.png);
+}
+.more{
+    display: flex;
+    justify-content: space-between;
+}
+.more ul{
+    list-style: none;
+}
+.conbutton{
+    color: white;
+    background-color: #23A6F0;
+    border-radius: 5px;
+    padding: 10px;
+    border: none;
+}
+.consult{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
