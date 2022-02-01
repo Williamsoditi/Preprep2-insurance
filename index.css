@@ -1,8 +1,9 @@
 *{
     box-sizing: border-box;
-    font-family: Monteserrat;
+    font-family: Montserrat;
     text-align: center;
     align-items: center;
+   
     
 }
 .nav{
@@ -83,19 +84,31 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
+    padding: 50px;
 }
 .premium{
     display: flex;
     align-items: center;
-    margin-left: 40px;
 }
 .free{
     display: flex;
     margin-left: 40px;
 }
+button{
+    background-color: #23A6F0;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+    padding-right: 40px;
+    padding-left: 40px;
+
+}
 .standard{
     display: flex;
     margin-left: 40px;
+    padding-top: 50px;
 }
 .freem{
     border-style: solid;
@@ -103,8 +116,7 @@ header{
     border-radius: 10px ;
 }
 .std{
-    border-style: solid;
-    border-color: #23A6F0;
+    border-style: none;
     border-radius: 10px ;
     background-color: #252b42 ;
     color: white;
@@ -114,10 +126,7 @@ header{
     border-color: #23A6F0;
     border-radius: 10px ;
 }
-table{
-    color: #23A6F0;
-    font-weight: bolder;
-}
+
 .branch{
     display: flex;
     justify-content: center;
@@ -125,3 +134,4 @@ table{
     color: white;
     padding: 30px
 }
+
