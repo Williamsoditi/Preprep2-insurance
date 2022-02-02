@@ -83,16 +83,19 @@ header{
 .satisfy{
     background-color: #23A6F0;
     color: white;
+    align-items: flex-start;
 }
 .what{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    padding-bottom: 10%;
 }
 .people{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
+    padding-top: 4%;
 }
 .pp1{
     border-style: solid;
@@ -115,6 +118,8 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-top: 10%;
+    padding-bottom: 3%;
 }
 .pricing{
     display: flex;
