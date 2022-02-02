@@ -56,6 +56,7 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-top: 50px;
 }
 .quotebutton{
     background-color: #23A6F0;
@@ -165,12 +166,36 @@ button{
     padding-left: 40px;
 
 }
-
+/*Styling used in branches section*/
 .branch{
     display: flex;
     justify-content: center;
     background-color: #252b42;
     color: white;
-    padding: 30px
+    padding: 30px;
+    padding-bottom: 25%;
 }
-
+/*Styling used to create the branches form*/
+.application{
+    display: flex;
+    border: none;
+    height: 400px;
+    width: 450px;
+    justify-content: center;  
+    margin-top: -150px;
+    background-color: white;
+    margin-left: 350px;
+}
+.mail_details{
+    margin: auto;
+}
+.mail_details h3{
+    margin-left: -0px;
+    margin-top: -30px;
+}
+.buttonone{
+    margin-top: 30px;
+}
+.information{
+    margin-top: -20%;
+}
