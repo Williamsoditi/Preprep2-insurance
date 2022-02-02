@@ -1,6 +1,12 @@
 # BrandName Insurance landing page
 #### This is the landing page of BrandName insurance company, a direct interface to mnaipulate the webpage. Created in 27/01/2021
 #### By Williams Oditi Olang
+## Table of contents
+* Description
+* Setup/Installation Requirements
+* Technologies used
+* Support and contact details
+* License
 ## Description
 This displays a landing page to BrandName insurance company.
 ## Setup/Installation Requirements
