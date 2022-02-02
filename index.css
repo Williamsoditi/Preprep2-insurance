@@ -1,6 +1,5 @@
 *{
     box-sizing: border-box;
-    font-family: 'Montserrat', sans-serif;
     text-align: center;
     align-items: center;
    
@@ -80,7 +79,25 @@ header{
 }
 .people{
     display: flex;
+    justify-content: space-between;
     align-items: center;
+}
+.pp1{
+    border-style: solid;
+    border-color: gray;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+.pp2{
+    border-style: solid;
+    border-color: gray;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+.pp3{
+    border-style: solid;
+    border-color: gray;
+    border-radius: 5px;
 }
 .logos{
     display: flex;
